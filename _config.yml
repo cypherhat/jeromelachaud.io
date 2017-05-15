@@ -15,9 +15,4 @@ google_verify:
 sass:
   style: nested
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+exclude: [vendor]
